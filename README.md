@@ -157,6 +157,11 @@ Established that different run types generate different average xThreat values, 
 **Project 2 — Off-Ball Run Value in Transitions (this project)**
 Goes one layer deeper — asking not which runs are most valuable on average, but under which conditions runs become valuable, and how players create that value in real transition situations.
 
+**Project 3 — Coming Soon**
+Building on the transition framework with a larger dataset, 
+defensive context, physical intensity as a primary layer, 
+and SkillCorner's own methodology. Target: Summer 2026.
+
 ---
 
 ## Data Credit
